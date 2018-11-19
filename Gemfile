@@ -1,5 +1,4 @@
-source 'https://gems.ruby-china.org'
-gem 'github-pages', group: :jekyll_plugins
+source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -9,7 +8,7 @@ gem 'github-pages', group: :jekyll_plugins
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
