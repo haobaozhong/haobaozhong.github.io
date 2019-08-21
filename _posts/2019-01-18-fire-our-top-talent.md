@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "我们解雇了最有"天赋"的成员——正确的决定。"
-date: 2019-01-16 14:00:00
+title: "我们解雇了最有天赋的成员——正确的决定。"
+date: 2019-01-18 14:00:00
 categories: career
 ---
 
@@ -9,4 +9,4 @@ categories: career
 
 ## 作者
 
-- [](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
+- [We fired our top talent. Best decision we ever made](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)

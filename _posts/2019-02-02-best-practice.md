@@ -57,10 +57,10 @@ skills that are not strongly tied to a particular domian or language.
 ### Narrow the focus.
 
 - narrow your goals.
-
 - no context-switch.
 - do one thing and do it well.
 - working less can actually produce better results.
+- don't and do
 
 ### RCA: root cause analysis.
 
@@ -69,6 +69,8 @@ skills that are not strongly tied to a particular domian or language.
 ### Love or leave.
 
 ### Never stop questioning.
+
+- a healthy degree of skepticism.
 
 ### Listen.
 
@@ -107,3 +109,7 @@ skills that are not strongly tied to a particular domian or language.
 ### Embrace Change.
 
 - change yourself/corporation/world.
+
+### Walk your talk.
+
+### Am I wrong?
