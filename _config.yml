@@ -16,11 +16,11 @@
 title: The Humble Programmer
 email: haobaozhong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  huh m
+  humble, respect, trust.
 encoding: UTF-8
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  haobaozhong
+github_username: haobaozhong
 
 # Build settings
 markdown: kramdown
