@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Go"
+title: "Go"
 date: 2019-08-28 10:00:00
 categories: go
 ---
@@ -8,10 +8,7 @@ categories: go
 - [Why Go](#why-go)
 - [Runtime](#runtime)
 - [Concurrency](#concurrency)
-- [Dependency](#dependency)
-- [Testing](#testing)
 - [Conventions](#conventions)
-- [Pitfalls](#pitfalls)
 - [Design Patterns](#design-patterns)
 - [Books](#books)
 - [Misc](#misc)
@@ -32,28 +29,15 @@ categories: go
 
 ## Concurrency
 
-- [Go Concurrency Patterns. Rob Pike](https://golang.google.cn/talks/2012/concurrency.slide)
 - [Concurrent programming](https://yourbasic.org/golang/concurrent-programming/)
-- [Learning Go’s Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 - [How Goroutines Work](https://blog.nindalf.com/posts/how-goroutines-work)
-
-## Dependency
-
-- [Using go modules to manage dependencies](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/vendor.md)
-
-## Testing
-
-- [Kubernetes testing guide](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-testing/testing.md)
+- [Go Concurrency Patterns. Rob Pike](https://golang.google.cn/talks/2012/concurrency.slide)
+- [Learning Go’s Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 
 ## Conventions
 
 - [Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments)
-- [Kubernetes coding conventions](https://github.com/kubernetes/community/blob/master/contributors/guide/coding-conventions.md)
 - [Standard Go project layout](https://github.com/golang-standards/project-layout)
-
-## Pitfalls
-
-- [The three go landmines](https://gist.github.com/lavalamp/4bd23295a9f32706a48f)
 
 ## Design Patterns
 
